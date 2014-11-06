@@ -1,0 +1,28 @@
+{
+  "name": "nge-input-mask",
+  "version": "0.0.0",
+  "homepage": "http://joaomsa.com/nge-input-mask",
+  "authors": [
+    "Joao Sa <me@joaomsa.com>"
+  ],
+  "description": "Configurable, robust, and mobile friendly Angular JS input masks",
+  "main": "./dist/nge-input-mask.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "angularjs",
+    "angular",
+    "input-mask",
+    "input",
+    "mask"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
